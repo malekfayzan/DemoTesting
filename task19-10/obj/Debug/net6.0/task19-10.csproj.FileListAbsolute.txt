@@ -1,0 +1,15 @@
+C:\Users\malek fayzan\Documents\Internship\Malek Fayzan\task19-10\bin\Debug\net6.0\task19-10.exe
+C:\Users\malek fayzan\Documents\Internship\Malek Fayzan\task19-10\bin\Debug\net6.0\task19-10.deps.json
+C:\Users\malek fayzan\Documents\Internship\Malek Fayzan\task19-10\bin\Debug\net6.0\task19-10.runtimeconfig.json
+C:\Users\malek fayzan\Documents\Internship\Malek Fayzan\task19-10\bin\Debug\net6.0\task19-10.dll
+C:\Users\malek fayzan\Documents\Internship\Malek Fayzan\task19-10\bin\Debug\net6.0\task19-10.pdb
+C:\Users\malek fayzan\Documents\Internship\Malek Fayzan\task19-10\obj\Debug\net6.0\task19-10.csproj.AssemblyReference.cache
+C:\Users\malek fayzan\Documents\Internship\Malek Fayzan\task19-10\obj\Debug\net6.0\task19-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malek fayzan\Documents\Internship\Malek Fayzan\task19-10\obj\Debug\net6.0\task19-10.AssemblyInfoInputs.cache
+C:\Users\malek fayzan\Documents\Internship\Malek Fayzan\task19-10\obj\Debug\net6.0\task19-10.AssemblyInfo.cs
+C:\Users\malek fayzan\Documents\Internship\Malek Fayzan\task19-10\obj\Debug\net6.0\task19-10.csproj.CoreCompileInputs.cache
+C:\Users\malek fayzan\Documents\Internship\Malek Fayzan\task19-10\obj\Debug\net6.0\task19-10.dll
+C:\Users\malek fayzan\Documents\Internship\Malek Fayzan\task19-10\obj\Debug\net6.0\refint\task19-10.dll
+C:\Users\malek fayzan\Documents\Internship\Malek Fayzan\task19-10\obj\Debug\net6.0\task19-10.pdb
+C:\Users\malek fayzan\Documents\Internship\Malek Fayzan\task19-10\obj\Debug\net6.0\task19-10.genruntimeconfig.cache
+C:\Users\malek fayzan\Documents\Internship\Malek Fayzan\task19-10\obj\Debug\net6.0\ref\task19-10.dll
